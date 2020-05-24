@@ -1,3 +1,3 @@
 # Software-Engineering-Algo-Visualiser
-To run
+To run,
 open Algorithms.html in browser
